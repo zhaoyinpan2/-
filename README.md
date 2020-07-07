@@ -21,3 +21,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 
 ## 持续集成
+[![Build Status](https://www.travis-ci.org/zhaoyinpan2/-.svg?branch=master)](https://www.travis-ci.org/zhaoyinpan2/-)
